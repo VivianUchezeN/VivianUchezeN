@@ -15,13 +15,6 @@ and let’s build something incredible together.
 Looking forward to collaborating with you!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-ucheze-3b1323162)
- 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/vivianucheze?t=sIys3uPh0_WYpBC2-B_HPA&s=09)
-
-
-
 
 ## 💻 Tech Stack
 <table align="center">
@@ -40,10 +33,6 @@ Looking forward to collaborating with you!
 </table>
 
 
-
-
-
-
 ## 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutorIjy&show_icons=true&theme=dark&count_private=true)
@@ -56,6 +45,16 @@ Looking forward to collaborating with you!
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TutorIjy&theme=darkhub&margin-w=15&margin-h=15)
+
+## 📫 Let's Connect
+<p align="center">
+ <a href="mailto:mmesomaucheze1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+ <a href="[https://www.linkedin.com/in/vivian-ucheze-3b1323162]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+</p>
+ 
+---
+
+<p align="center">⚡ Let's build the future of AI in the cloud! ⚡</p>
 
 <!---
 VivianUchezeN/VivianUchezeN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
