@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Vivian Ucheze;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+</p>
+
 -👋 Hi, 🌟 About Me
 I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud
 technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
@@ -35,16 +39,24 @@ Looking forward to collaborating with you!
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutorIjy&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivianUchezeN&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TutorIjy&theme=dark&hide_border=false)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivianUchezeN&theme=dark&hide_border=false)
 
 
 ## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutorIjy&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianUchezeN&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TutorIjy&theme=darkhub&margin-w=15&margin-h=15)
+
+
+### 🔝 Top Contributed Repositories 
+![](https://github-contributor-stats.vercel.app/api?username=VivianUchezeN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+![](https://komarev.com/ghpvc/?username=VivianUchezeN&color=blue)
+
 
 ## 📫 Let's Connect
 <p align="center">
